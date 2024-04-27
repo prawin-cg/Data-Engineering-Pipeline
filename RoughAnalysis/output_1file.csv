@@ -1,0 +1,87 @@
+RESOURCEID,FULLURL,REQUEST,ATTRIBUTE,VALUE
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",resourceType,Patient
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",id,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.0.url,http://hl7.org/fhir/us/core/StructureDefinition/us-core-race
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.0.extension.0.url,ombCategory
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.0.extension.0.valueCoding.system,urn:oid:2.16.840.1.113883.6.238
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.0.extension.0.valueCoding.code,2106-3
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.0.extension.0.valueCoding.display,White
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.0.extension.1.url,text
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.0.extension.1.valueString,White
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.1.url,http://hl7.org/fhir/us/core/StructureDefinition/us-core-ethnicity
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.1.extension.0.url,ombCategory
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.1.extension.0.valueCoding.system,urn:oid:2.16.840.1.113883.6.238
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.1.extension.0.valueCoding.code,2186-5
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.1.extension.0.valueCoding.display,Not Hispanic or Latino
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.1.extension.1.url,text
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.1.extension.1.valueString,Not Hispanic or Latino
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.2.url,http://hl7.org/fhir/StructureDefinition/patient-mothersMaidenName
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.2.valueString,Holley125 Champlin946
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.3.url,http://hl7.org/fhir/us/core/StructureDefinition/us-core-birthsex
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.3.valueCode,M
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.4.url,http://hl7.org/fhir/StructureDefinition/patient-birthPlace
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.4.valueAddress.city,Barnstable
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.4.valueAddress.state,Massachusetts
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.4.valueAddress.country,US
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.5.url,http://synthetichealth.github.io/synthea/disability-adjusted-life-years
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.5.valueDecimal,0.05826471038258488
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.6.url,http://synthetichealth.github.io/synthea/quality-adjusted-life-years
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",extension.6.valueDecimal,52.94173528961741
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.0.system,https://github.com/synthetichealth/synthea
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.0.value,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.1.system,http://hospital.smarthealthit.org
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.1.value,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.1.type.coding.0.system,http://terminology.hl7.org/CodeSystem/v2-0203
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.1.type.coding.0.code,MR
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.1.type.coding.0.display,Medical Record Number
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.1.type.text,Medical Record Number
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.2.system,http://hl7.org/fhir/sid/us-ssn
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.2.value,999-86-2571
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.2.type.coding.0.system,http://terminology.hl7.org/CodeSystem/v2-0203
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.2.type.coding.0.code,SS
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.2.type.coding.0.display,Social Security Number
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.2.type.text,Social Security Number
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.3.system,urn:oid:2.16.840.1.113883.4.3.25
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.3.value,S99949530
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.3.type.coding.0.system,http://terminology.hl7.org/CodeSystem/v2-0203
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.3.type.coding.0.code,DL
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.3.type.coding.0.display,Driver's License
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.3.type.text,Driver's License
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.4.system,http://standardhealthrecord.org/fhir/StructureDefinition/passportNumber
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.4.value,X67249552X
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.4.type.coding.0.system,http://terminology.hl7.org/CodeSystem/v2-0203
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.4.type.coding.0.code,PPN
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.4.type.coding.0.display,Passport Number
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",identifier.4.type.text,Passport Number
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",name.0.use,official
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",name.0.family,Dickens475
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",name.0.given.0,Aaron697
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",name.0.prefix.0,Mr.
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",telecom.0.system,phone
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",telecom.0.value,555-152-6034
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",telecom.0.use,home
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",gender,male
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",birthDate,1944-08-28
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",deceasedDateTime,1998-08-15T13:05:53+01:00
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",address.0.extension.0.url,http://hl7.org/fhir/StructureDefinition/geolocation
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",address.0.extension.0.extension.0.url,latitude
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",address.0.extension.0.extension.0.valueDecimal,42.13509612101196
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",address.0.extension.0.extension.1.url,longitude
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",address.0.extension.0.extension.1.valueDecimal,-71.94977170576706
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",address.0.line.0,859 Altenwerth Run Unit 88
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",address.0.city,Charlton
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",address.0.state,MA
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",address.0.country,US
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",multipleBirthBoolean,False
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",communication.0.language.coding.0.system,urn:ietf:bcp:47
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",communication.0.language.coding.0.code,en-US
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",communication.0.language.coding.0.display,English
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",communication.0.language.text,English
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",meta.profile.0,http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",text.status,generated
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",text.div,"<div xmlns=""http://www.w3.org/1999/xhtml"">Generated by <a href=""https://github.com/synthetichealth/synthea"">Synthea</a>.Version identifier: master-branch-latest
+ .   Person seed: 8886041252665297312  Population seed: 13235</div>"
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",maritalStatus.coding.0.system,http://terminology.hl7.org/CodeSystem/v3-MaritalStatus
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",maritalStatus.coding.0.code,M
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",maritalStatus.coding.0.display,M
+8c95253e-8ee8-9ae8-6d40-021d702dc78e,urn:uuid:8c95253e-8ee8-9ae8-6d40-021d702dc78e,"{'method': 'POST', 'url': 'Patient'}",maritalStatus.text,M

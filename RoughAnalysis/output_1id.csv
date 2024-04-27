@@ -1,0 +1,82 @@
+RESOURCEID,FULLURL,REQUEST,ATTRIBUTE,VALUE
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",resourceType,Provenance
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",id,e9428c8e-b53a-c5b7-eed7-6aa161964de9
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.0,http://hl7.org/fhir/us/core/StructureDefinition/us-core-race
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.url.0,ombCategory
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.valueCoding.system.0,urn:oid:2.16.840.1.113883.6.238
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.valueCoding.code.0,2106-3
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.valueCoding.display.0,White
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.url.1,text
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.valueString.1,White
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.1,http://hl7.org/fhir/us/core/StructureDefinition/us-core-ethnicity
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.url.0,ombCategory
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.valueCoding.system.0,urn:oid:2.16.840.1.113883.6.238
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.valueCoding.code.0,2186-5
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.valueCoding.display.0,Not Hispanic or Latino
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.url.1,text
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.valueString.1,Not Hispanic or Latino
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.2,http://hl7.org/fhir/StructureDefinition/patient-mothersMaidenName
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueString.2,Phebe144 O'Kon634
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.3,http://hl7.org/fhir/us/core/StructureDefinition/us-core-birthsex
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueCode.3,F
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.4,http://hl7.org/fhir/StructureDefinition/patient-birthPlace
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueAddress.city.4,Salem
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueAddress.state.4,Massachusetts
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueAddress.country.4,US
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.5,http://synthetichealth.github.io/synthea/disability-adjusted-life-years
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueDecimal.5,0.03522672532924651
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.6,http://synthetichealth.github.io/synthea/quality-adjusted-life-years
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueDecimal.6,30.964773274670755
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",recorded,2021-10-02T00:42:21.515+01:00
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.0,http://hl7.org/fhir/us/core/StructureDefinition/us-core-race
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.url.0,ombCategory
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.valueCoding.system.0,urn:oid:2.16.840.1.113883.6.238
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.valueCoding.code.0,2106-3
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.valueCoding.display.0,White
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.url.1,text
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.valueString.1,White
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.1,http://hl7.org/fhir/us/core/StructureDefinition/us-core-ethnicity
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.url.0,ombCategory
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.valueCoding.system.0,urn:oid:2.16.840.1.113883.6.238
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.valueCoding.code.0,2186-5
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.valueCoding.display.0,Not Hispanic or Latino
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.url.1,text
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.valueString.1,Not Hispanic or Latino
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.2,http://hl7.org/fhir/StructureDefinition/patient-mothersMaidenName
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueString.2,Phebe144 O'Kon634
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.3,http://hl7.org/fhir/us/core/StructureDefinition/us-core-birthsex
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueCode.3,F
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.4,http://hl7.org/fhir/StructureDefinition/patient-birthPlace
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueAddress.city.4,Salem
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueAddress.state.4,Massachusetts
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueAddress.country.4,US
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.5,http://synthetichealth.github.io/synthea/disability-adjusted-life-years
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueDecimal.5,0.03522672532924651
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.6,http://synthetichealth.github.io/synthea/quality-adjusted-life-years
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueDecimal.6,30.964773274670755
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.0,http://hl7.org/fhir/us/core/StructureDefinition/us-core-race
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.url.0,ombCategory
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.valueCoding.system.0,urn:oid:2.16.840.1.113883.6.238
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.valueCoding.code.0,2106-3
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.valueCoding.display.0,White
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.url.1,text
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.0.extension.valueString.1,White
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.1,http://hl7.org/fhir/us/core/StructureDefinition/us-core-ethnicity
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.url.0,ombCategory
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.valueCoding.system.0,urn:oid:2.16.840.1.113883.6.238
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.valueCoding.code.0,2186-5
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.valueCoding.display.0,Not Hispanic or Latino
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.url.1,text
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.1.extension.valueString.1,Not Hispanic or Latino
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.2,http://hl7.org/fhir/StructureDefinition/patient-mothersMaidenName
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueString.2,Phebe144 O'Kon634
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.3,http://hl7.org/fhir/us/core/StructureDefinition/us-core-birthsex
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueCode.3,F
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.4,http://hl7.org/fhir/StructureDefinition/patient-birthPlace
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueAddress.city.4,Salem
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueAddress.state.4,Massachusetts
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueAddress.country.4,US
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.5,http://synthetichealth.github.io/synthea/disability-adjusted-life-years
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueDecimal.5,0.03522672532924651
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.url.6,http://synthetichealth.github.io/synthea/quality-adjusted-life-years
+e9428c8e-b53a-c5b7-eed7-6aa161964de9,urn:uuid:e9428c8e-b53a-c5b7-eed7-6aa161964de9,"{'method': 'POST', 'url': 'Provenance'}",extension.valueDecimal.6,30.964773274670755
